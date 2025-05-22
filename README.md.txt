@@ -53,8 +53,7 @@ Proposer des hypothèses explicatives (énergie, géopolitique, crise sanitaire�
 
 
 📁 Structure du projet
-sql
-Copier le code
+
 📦 Project Root
 │
 ├── Data/
