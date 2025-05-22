@@ -1,0 +1,31 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environnements virtuels
+venv/
+env/
+
+# Fichiers temporaires Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Dossiers cachés d’OS
+.idea/
+.vscode/
+
+# Données personnelles ou volumineuses
+*.sqlite
+*.db
+*.log
+
+# Fichiers Excel ou Sheets modifiés à la main
+*.xlsx
+*.ods
+
+# fichiers spécifiques à Google Colab
+*.ipynb~  
