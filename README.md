@@ -40,22 +40,10 @@ Il s’appuie sur des **données publiques de l’INSEE** pour explorer les tend
 
 ## 📁 Structure du projet
 
-📦 Projet-Etude-Inflation/
-│
-├── Data/
-│   ├── ipc_Analyse.csv
-│   ├── ipc_complete.csv
-│   ├── ipc_flash_manual.csv
-│   └── ipc-base-2015.csv
-│
-├── Notebook/
-│   └── (notebooks d’analyse Python)
-│
-├── SQL Script/
-│   └── (scripts SQL pour le traitement initial)
-│
-├── README.md
-└── requirements.txt
+📦 Projet-Etude-Inflation
+
+<img src="https://github.com/Abrhm-ma25/Projet-Etude-Inflation/blob/main/Structure%20Projet%20inflation.png?raw=true" alt="Structure du projet" width="300"/>
+
 
 
 ---
