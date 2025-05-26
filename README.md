@@ -1,4 +1,4 @@
-# 🇫🇷 🛒📊 Study of the Impact of Inflation on Basic Products in France
+# 🛒📊 Study of the Impact of Inflation on Basic Products in France
 
 This project analyzes the evolution of inflation in France between 2015 and 2023, identifying which products are most sensitive to price changes. The focus is on fast-moving consumer goods (meat, drinks, hygiene products, and other food products).  
 It is based on **public data from INSEE** (the French National Institute of Statistics and Economic Studies).
