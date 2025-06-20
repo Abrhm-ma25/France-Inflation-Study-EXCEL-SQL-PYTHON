@@ -1,7 +1,8 @@
 jupyter
 pandas
-numpy
 matplotlib
 seaborn
 LinearRegression
 display
+scikit-learn
+numpy
