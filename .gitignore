@@ -1,0 +1,31 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+
+# SQL files and SSMS solution files
+*.sql                     # SQL script files
+*.ssmssln                 # SQL Server Management Studio Solution file
+
+# Sensitive or raw data
+*.csv
+*.xlsx
+*.xls
+
+# IDE and OS-specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Logs
+*.log
