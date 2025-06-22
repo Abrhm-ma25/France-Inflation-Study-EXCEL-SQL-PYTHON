@@ -11,7 +11,7 @@ venv/
 
 # SQL files and SSMS solution files
 *.sql                     # SQL script files
-*.ssmssln                 # SQL Server Management Studio Solution file
+.ssmssln                 # SQL Server Management Studio Solution file
 
 # Sensitive or raw data
 *.csv
